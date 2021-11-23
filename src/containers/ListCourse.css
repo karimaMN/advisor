@@ -1,0 +1,15 @@
+.container-fluid
+{
+  float:right;
+  height: 500px;
+  width:1200px; 
+  padding:3px; 
+    
+}
+.col-3
+{
+  height:500px;
+  width: 400px;
+   overflow:auto;
+    
+}

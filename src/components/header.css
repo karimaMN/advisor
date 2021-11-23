@@ -1,0 +1,22 @@
+.header-page {
+     background-color: hsl(350, 67%, 36%);
+     font-family: "Times New Roman", Times, serif;
+     color: #fff;
+     padding: 12px 0px 12px 25px;
+     margin-bottom: -8px;
+
+}
+
+.sous-header {
+     background-color: rgb(58, 57, 57);
+     font-family: "Times New Roman", Times, serif;
+     color: #fff;
+     font-size: 20px;
+     padding: 6px 0px 6px 25px;
+     position: relative;
+
+}
+
+.childdiv{
+     float:right;
+}
